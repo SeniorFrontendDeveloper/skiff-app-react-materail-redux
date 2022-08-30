@@ -65,7 +65,7 @@
     "jwt-decode": "^2.1.0",
     "material-ui": "^0.18.0",
     "moment": "^2.15.1",
-    "moment-timezone": "^0.5.7",
+    "moment-timezone": "^0.5.35",
     "node-sass": "^4.0.0",
     "normalize.css": "^5.0.0",
     "popsicle": "^8.2.0",
